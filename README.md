@@ -55,13 +55,8 @@ Note: Some artifacts (cookies, cache) showed as "Failed" in Hindsight – this i
 📁 Files in This Repository
 Browser_Forensics_Report.pdf – Full forensic analysis report.
 
-screenshots/ – Folder containing evidence screenshots:
+db browser/ – Folder containing evidence screenshots
 
-DB Browser – urls table view
-
-Hindsight – main results summary
-
-Hindsight – plugins and extensions details
 
 💡 Skills Demonstrated
 Digital evidence acquisition
